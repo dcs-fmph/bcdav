@@ -5,54 +5,22 @@ layout: index
 
 ### 1-DAV-921, 1-BIN-921, 1-DAV-922, 1-BIN-922
 
-#### Letný semester
-
-* **19.2. Úvod (všetci)**<br>
-[Oznamy](./Oznamy_február.md) <!-- • [Časové konflikty](https://moodle.uniba.sk/mod/assign/view.php?id=180181) -->
-* **26.2. Cvičenie k písaniu (všetci)**<br>
-<!-- Prineste si notebook s funkčnou WiFi, stačí jeden na 2-3 študentov.<br>
-Zadanie: <https://docs.google.com/presentation/d/1o4n4LOHHwjci-tCULL_6jbKMVSebn2SFwxfpZx25sDM/edit?usp=sharing> -->
-Prezentáciu aj vypracované cvičenie nájdete v Moodli.
-* **5.3. Prezentácie**<br>
-Ambrová, Dokupil, Kendereš, Kolesár, Lucina
-* **12.3. Prezentácie**<br>
-Bukreev, Kostolník, Pilátová, Andrukhovskyi, Chromík, Tunik
-* **19.3. Prezentácie**<br>
-Jendrušák, Shcherban, Atamas, P. Nagyová, Osipchuk, Milčová, E. Nagyová
-* **26.3. Prezentácie**<br>
-Pákozdyová, Kasat, Kuprienko, Beloglazov, Voenkov, Kutsko
-* **2.4.** Veľká Noc<br>
-* **9.4. Prezentácie**<br>
-Nguyen Van, Šimkovič, Novotný, Skaloš, Šugár, Kužmová, Kalyn, Ganajová
-* **16.4. Kontrolné stretnutia**<br>
-(skupiny 12.3., 19.3.)
-* **23.4. Kontrolné stretnutia**<br>
-(skupiny 26.3., 9.4.)
-* **30.4.** Rezerva
-* **7.5. Otázky k odovzdávaniu, pokyny k nácviku obhajob (všetci)** <br>
-[Oznamy](./Oznamy_máj.md)
-* **14.5.** Rezerva 
-* V skúškovom období [nácvik obhajob](./Prezentácia_3.html)
-
-
-#### Zimný semester
-
-* **23.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
-[Pravidlá](./Pravidlá_ZS.md) • [Návod](./Návod.md) (podstránky 1.-3.)
-* **30.9. Seminár nebude**
-* **7.10. Predstavovanie tém a školiteľov (všetci)**
+* **22.9. Úvod k bakalárskej práci a k semináru (všetci)**<br>
+[Pravidlá](./Pravidlá_ZS.md)  • [Návod](./Návod.md) (podstránky 1.-3.)
+* **29.9. Seminár nebude**
+* **6.10. Predstavovanie tém a školiteľov (všetci)**
 * **Streda 8.10. 19:00 Predstavovanie tém a školiteľov online (všetci)**
-* **14.10. Nepovinná prednáška a cvičenie k LaTeXu**<br>
+* **13.10. Nepovinná prednáška a cvičenie k LaTeXu**<br>
 [Úvod do LaTeXu](./Úvod_do_LaTeXu.md) • Prineste si notebook, pripravte si softvér / konto na overleaf.com
-* **21.10. Nájdené témy, úvod k prezentáciám, písomná práca (všetci)**<br>
-[Návod](./Návod.md) (podstránky 3.,4.,4b.,7.) • [Prezentácia 1](./Prezentácia_1.md)  • [Oznamy](Oznamy_október.md)
-* **28.10. Práca s literatúrou, LaTeX, (všetci)**<br>
-[Návod](./Návod.md) (podstránky 5., 6.) •  [DÚ1](./DÚ1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md)
-* **4.11. Rezerva**
-* **11.11. Prezentácie (aspoň 2)**<br>
-* **18.11. Prezentácie (aspoň 2)**<br>
-* **25.11. Prezentácie (aspoň 2)**<br>
-* **2.12. Prezentácie (aspoň 2)**<br>
-* **9.12. Prezentácie (aspoň 2)**<br>
-* **16.12. Prezentácie (aspoň 2)**<br>
+* **20.10. Nájdené témy, úvod k prezentáciám, písomná práca (všetci)**<br>
+<!-- [Návod](./Návod.md) (podstránky 3.,4.,7.) • [Prezentácia 1](./Prezentácia_1.md)  • [Oznamy](Oznamy_október.md)-->
+* **27.10. Práca s literatúrou, LaTeX, (všetci)**<br>
+<!-- [Návod](./Návod.md) (podstránky 5., 6.) •  [DÚ1](./DÚ1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md) -->
+* **3.11. Rezerva**
+* **10.11. Prezentácie (aspoň 2)**<br>
+* **17.11. Prezentácie (aspoň 2)**<br>
+* **24.11. Prezentácie (aspoň 2)**<br>
+* **1.12. Prezentácie (aspoň 2)**<br>
+* **8.12. Prezentácie (aspoň 2)**<br>
+* **15.12. Prezentácie (aspoň 2)**<br>
 * **Kontrolné stretnutie cez skúškové obdobie**

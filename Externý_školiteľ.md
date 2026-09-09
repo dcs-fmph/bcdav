@@ -11,5 +11,5 @@ title: Externý školiteľ
 - Jazyk práce (slovenský alebo anglický)
 - Názov práce v slovenčine
 - Názov práce v angličtine
-- Cieľ práce v slovenčine (zopár viet)
-- Cieľ práce v angličtine (túto položku treba len pre práce v angličtine, ostatné položky sú povinné)
+- Cieľ/anotácia práce v slovenčine (zopár viet)
+- Cieľ/anotácia práce v angličtine (túto položku treba len pre práce v angličtine, ostatné položky sú povinné)
