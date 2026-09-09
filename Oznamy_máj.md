@@ -8,7 +8,7 @@
 - [Odovzdávanie prác](./Odovzdávanie_prác.md)
 - [Obhajoba, prezentácia vlastných výsledkov](./Obhajoba,_prezentácia_vlastných_výsledkov.md)
 - Magisterské štúdium
-- ([Štúdium v poslednom ročníku](./Štúdium_v_poslednom_ročníku.md))
+- ([Štúdium v poslednom ročníku](./Studium_v_poslednom_rocniku.md))
 
 ## Čo vás čaká v najbližšom čase
 

@@ -6,7 +6,7 @@
 - Dôležité termíny, harmonogram
   - Študentská vedecká konferencia
   - Prihlášky na magisterské programy
-- [Štúdium v poslednom ročníku](./Štúdium_v_poslednom_ročníku.md) a [Rady k samotnej práci](./Rady_k_samotnej_práci.md) (opakovanie)
+- [Štúdium v poslednom ročníku](./Studium_v_poslednom_rocniku.md) a [Rady k samotnej práci](./Rady_k_samotnej_práci.md) (opakovanie)
 - [Odovzdávanie prác](./Odovzdávanie_prác.md)
 
 ### Čo nás čaká v najbližšom čase

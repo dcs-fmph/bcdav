@@ -2,7 +2,7 @@
 title: LaTeX pre bakalársku prácu
 ---
 
-Informácie pre začiatočníkov nájdete na stránke [Úvod do LaTeXu](./Úvod_do_LaTeXu.md). Na tejto stránke sa snažíme zhrnúť
+Informácie pre začiatočníkov nájdete na stránke [Úvod do LaTeXu](./Uvod_do_LaTeXu.md). Na tejto stránke sa snažíme zhrnúť
 informácie špecificky potrebné k bakalárskej práci.
 
 ## Kostra práce
@@ -117,7 +117,7 @@ Ak sa na túto kapitolu teraz chceme odvolať, použijeme `\ref`:
   - Záznamy vo formáte pre BibTeX si vieme stiahnuť z niektorých stránok
     (napr. [Google scholar](http://scholar.google.com/)) alebo vytvoriť
     [nástrojmi na prácu s
-    literatúrou](./Práca_s_literatúrou.html#podporný-softvér)
+    literatúrou](./Praca_s_literaturou.html#podporný-softvér)
   - V texte odkazujeme na zdroje pomocou `\cite{label}`, každý zdroj by
     sme mali aspoň raz zacitovať
 

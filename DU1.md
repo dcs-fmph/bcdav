@@ -81,9 +81,9 @@ Odovzdávajte pdf, ktoré bude obsahovať nasledujúce náležitosti.
   - Ak používate túto kostru, zmažte ukážkové texty v jednotlivých
     kapitolách a abstrakte.
   - K tejto domácej úlohe sa vám môžu hodiť informácie na stránkach
-    [Písomná práca](./Písomná_práca.html), [LaTeX pre bakalársku
+    [Písomná práca](./Pisomna_praca.html), [LaTeX pre bakalársku
     prácu](./LaTeX_pre_bakalársku_prácu.html) a [Práca s
-    literatúrou](./Práca_s_literatúrou.html).
+    literatúrou](./Praca_s_literaturou.html).
   - Na tomto predmete sa zameriame viac na hodnotenie formálnej stránky
     vášho textu. K obsahovej stránke vám lepšie komentáre môže poskytnúť
     váš školiteľ, nakoľko je odborník v danej oblasti.

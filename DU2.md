@@ -17,7 +17,7 @@ Cieľom tejto domácej úlohy je pokračovať v písaní bakalárskej práce, pr
 
 **Ďalšie informácie**
 
-* K tejto domácej úlohe sa vám môžu hodiť informácie na stránkach [Písomná práca](./Písomná_práca.html), [LaTeX pre bakalársku prácu](./LaTeX_pre_bakalársku_prácu.html) a [Práca s literatúrou](./Práca_s_literatúrou.html).
+* K tejto domácej úlohe sa vám môžu hodiť informácie na stránkach [Písomná práca](./Pisomna_praca.html), [LaTeX pre bakalársku prácu](./LaTeX_pre_bakalársku_prácu.html) a [Práca s literatúrou](./Praca_s_literaturou.html).
 * V úvodnej kapitole práce pre účely tejto úlohy jasne uveďte, v ktorej časti práce je 5 strán, ktoré máme hodnotiť (toto samozrejme po odovzdaní DÚ z bakalárskej práce odstránite).
 * Na tomto predmete sa zameriame viac na hodnotenie formálnej stránky vášho textu. K obsahovej stránke vám lepšie komentáre môže poskytnúť váš školiteľ, nakoľko je odborník v danej oblasti.
 * Upozornenie: Po odovzdaní dáme váš text dať čítať aj niekoľkým vašim spolužiakom, ktorí vám tiež poskytnú komentáre. 
