@@ -36,7 +36,7 @@ V hodnotení majú jednotlivé zložky nasledujúcu váhu:
   - Nácvik obhajob s povinnou účasťou bude cez skúškové obdobie.
   - Ak sa nezúčastníte niektorého seminára označeného kódom "všetci"
       - Ak ste mali na to závažné dôvody (napr. zdravotné), ospravedlňte
-        sa z neúčasti čím skôr emailom [A.Gafurovovi](http://www.dcs.fmph.uniba.sk/~gafurov/).
+        sa z neúčasti čím skôr emailom [A. Gafurovovi](http://www.dcs.fmph.uniba.sk/~gafurov/).
       - V opačnom prípade si vymeškanú hodinu musíte nahradiť podľa
         pravidiel nižšie.
   - Aktívnu účasť na prezentáciách a kontrolnom stretnutí nie je možné

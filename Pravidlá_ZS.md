@@ -35,7 +35,7 @@ V hodnotení majú jednotlivé zložky nasledujúcu váhu:
     - Nenechávajte si splnenie tejto povinnosti na poslednú chvíľu
 - Semináre označené "pre záujemcov" sú nepovinné
 - Ak sa nezúčastníte niektorého seminára označeného kódom "všetci"
-    - Ak ste mali na to závažné dôvody (napr. zdravotné), ospravedlňte sa z neúčasti čím skôr emailom [B. Brejovej](https://compbio.fmph.uniba.sk/~bbrejova/)
+    - Ak ste mali na to závažné dôvody (napr. zdravotné), ospravedlňte sa z neúčasti čím skôr emailom [A. Gafurovovi](http://www.dcs.fmph.uniba.sk/~gafurov/)
     - V opačnom prípade si vymeškanú hodinu musíte nahradiť podľa pravidiel nižšie
 - Účasť na prezentáciách nie je možné nahradzovať aktivitami nižšie
 - V prípade neúčasti si samostatne preštudujte poznámky z vymeškanej hodiny na stránke predmetu

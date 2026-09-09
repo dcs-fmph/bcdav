@@ -7,7 +7,7 @@ title: Komentáre k DÚ2
 položke](https://moodle.uniba.sk/mod/workshop/view.php?id=103693) ako
 DÚ2 do utorka 16.3. 22:00.
 
-Po odovzdaní [DÚ2](./DÚ2.md) bude váš text poskytnutý dvom náhode
+Po odovzdaní [DÚ2](./DU2.md) bude váš text poskytnutý dvom náhode
 priradeným spolužiakom, ktorí vám k nemu poskytnú komentáre a vy naopak
 budete komentovať práce iných. Táto aktivita má niekoľko cieľov:
 
