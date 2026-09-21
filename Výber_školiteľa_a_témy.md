@@ -82,7 +82,7 @@ existujúce výsledky v danej oblasti a prezentujete svoje výsledky
   - Mali by mať aspoň titul Mgr. alebo Ing.
   - Zamestnanci alebo doktorandi na FMFI UK, v prípade bioinformatiky
     tiež PriF UK, LF UK a pod.
-  - Zriedkavejšie aj školitelia z iných škôl, zo SAV, prípadne z praxe
+  - Školitelia z praxe, SAV, prípadne z iných škôl
   - Pozor, externí školitelia nepoznajú zvyklosti na našej fakulte resp.
     v našom odbore. Odporúčame konzultovať napr. na tomto predmete.
 
@@ -108,7 +108,7 @@ existujúce výsledky v danej oblasti a prezentujete svoje výsledky
       - Témy niekedy môžete nájsť aj v systéme AIS, na stránkach
         katedier, na osobných stránkach školiteľov, na rôznych
         nástenkách a pod.
-  - Niekedy si naopak študent sám vymyslí tému a naopak hľadá školiteľa,
+  - Niekedy si naopak študent sám vymyslí tému a hľadá školiteľa,
     ktorý by bol ochotný ju školiť.
   - Odporúčame hľadať tému **čím skôr**, lebo obľúbení školitelia budú
     neskôr obsadení
@@ -119,7 +119,7 @@ existujúce výsledky v danej oblasti a prezentujete svoje výsledky
     tam ako študenta
       - Treba zadať názov a cieľ práce (názov v slovenskom aj anglickom
         jazyku) a zvoliť aj jazyk, v akom bude práca písaná
-  - Garanti (doc. Vinař, prof. Harman pre DAV, doc. Brejová pre BIN) potom tému v systéme AIS elektronicky schvália (ak je zadanie vhodné)
+  - Garanti (doc. Vinař, prof. Harman pre DAV, doc. Brejová, prof. Tomáška pre BIN) potom tému v systéme AIS elektronicky schvália (ak je zadanie vhodné)
   - Téma by mala byť v AIS aj schválená do 31.10. Mali by ste si preto
     tému nájsť v dostatočnom predstihu, aby školiteľ a garant mali čas
     vybaviť túto administratívu

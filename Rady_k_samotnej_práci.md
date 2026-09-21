@@ -16,8 +16,8 @@ title: Rady k samotnej práci
         to
   - Pravidelne **komunikujte so školiteľom** (osobne príp e-mailom)
       - Konzultujte otázky a problémy
-      - Posielajte mu predbežné verzie softvéru aj textu do bakalárskej
-        práce.
+      - Posielajte mu predbežné verzie softvéru, výsledkov aj textu do bakalárskej
+        práce
   - Udržujte si priebežne **poznámky** k tomu, čo robíte. Často sa stáva
     že vo fáze spisovania výsledkov si už študenti nepamätajú, čo robili
     pred pol rokom a musia sa k tomu prácne vracať. Zapisujte si napr.
@@ -83,7 +83,7 @@ Tento časový plán prispôsobte vášmu projektu
 ### Hodnotenie práce
 
   - Po odovzdaní práce na ňu bude písať posudok školiteľ a nezávislý
-    oponent, obaja navrhnú výslednú známku
+    oponent, obaja navrhnú známku
   - Oponent hodnotenie zakladá na odovzdanej práci (písomná časť a
     elektronické prílohy, napr. zdrojový kód), ich kvalita je teda veľmi
     dôležitá
