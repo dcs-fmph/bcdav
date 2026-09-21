@@ -30,6 +30,17 @@ title: Štúdium v poslednom ročníku
 
 ### Magisterské štúdium
 
+#### Magisterský študijný program Dátová veda
+
+- Vhodný pre absolventov DAV, vytvorený špecificky aby dobre nadväzoval na bakalársky DAV
+- Oficiálny [študijný plán](https://sluzby.fmph.uniba.sk/infolist/sk/sp_mDAV.html) na aktuálny školský rok
+
+#### Magisterský študijný program Bioinformatika
+
+- Vhodný pre absolventov BIN, vytvorený špecificky aby dobre nadväzoval na bakalársky BIN
+- Oficiálny [študijný plán](https://sluzby.fmph.uniba.sk/infolist/sk/sp_mBIN.html) na aktuálny školský rok
+
+
 #### Magisterský študijný program Informatika
 
   - Vhodný pre absolventov DAV aj BIN
@@ -45,9 +56,8 @@ title: Štúdium v poslednom ročníku
       - [Teoretická
         informatika](https://sluzby.fmph.uniba.sk/infolist/sk/2-INF-955.html)
       - [Dátová
-        veda](https://sluzby.fmph.uniba.sk/infolist/sk/2-INF-956.html)
+        veda](https://sluzby.fmph.uniba.sk/infolist/sk/2-INF-956.html) pravdepodobne nebude ďalej ponúkaná
 
-  - Zameranie štátnic Dátová veda bolo vytvorené špecificky aby dobre nadväzovalo na bakalársky DAV
   - Pri [prijímaní na magisterské štúdium](https://fmph.uniba.sk/fileadmin/fmfi/studium/prijimacky/Podmienky_na_prijatie_na_mgr-phd_studium_24_25.pdf) sa berie do úvahy študijný
     priemer z povinných a povinne voliteľných predmetov, vrátane štátnic. Ak máte priemer nad 1,75, môžete byť pozvaní na prijímacie skúšky.
   - Oficiálny [študijný plán](https://sluzby.fmph.uniba.sk/infolist/sk/sp_mINF.html) na aktuálny školský rok
