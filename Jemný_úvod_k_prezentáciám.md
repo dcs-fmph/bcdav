@@ -44,8 +44,8 @@ Technická náročnosť
 
   - Publikum má krátku pamäť na detaily a pri prezentácii sa mu ťažko
     sledujú zložitejšie technické detaily
-  - Preto sa pokúste zaviesť čo najmenej nových pojmov, použite čo
-    najmenej zdrojového kódu, matematiky a pod.
+  - Rozmyslite si teda, ktoré pojmy skutočne potrebujete
+    zaviesť pre pochopenie jadra prezentácie
   - Pojmy radšej ilustrujte na príklade, než popisujte zložitou
     definíciou
 
@@ -56,6 +56,7 @@ Rozsah
     najdôležitejšie časti
   - Podľa typu prezentácie potrebujete 1/2 - 2 minúty na premietanú
     snímku
+  - Prezentáciu si vopred precvičte a zmerajte si čas
 
 Štýl textu
 
@@ -67,30 +68,16 @@ Rozsah
 Najdôležitejším kritériom je, aby váš text bol na projektore dobre
 čitateľný aj z väčšej diaľky
 
-  - Používajte dostatočne veľké písmo (pozor aj na písmo v obrázkoch a
-    tabuľkách)
-  - Použite dostatočne kontrastné farby
-      - Hlavný text ideálne čierny na bielom
-      - Pri použití viacerých farieb v grafoch a pod. voľte čo
-        najodlišnejšie farby
-      - Projektory totiž často farby veľmi skresľujú a farby, ktoré sú
-        dobre rozlíšiteľné na obrazovke, môžu byť veľmi podobné na
-        plátne
+  - Používajte dostatočne veľké písmo a kontrastné farby
   - Uprednostnite jednoduchší štýl, aby zbytočne nerušil publikum
 
 ## Ústny prejav
 
-  - Vyjadrujte sa odborne, nepoužívajte príliš hovorové výrazy
+  - Vyjadrujte sa odborne, nepoužívajte hovorové výrazy
   - Hovorte primerane rýchlo, zreteľne a nahlas
   - Rozprávajte smerom k publiku, udržujte očný kontakt
   - Prerozprávajte obsah každej snímky, nečakajte, že si text publikum
     prečíta, kým vy hovoríte niečo iné
-
-Príprava
-
-  - Prezentáciu si niekoľkokrát precvičte a zmerajte si čas
-  - Rozmyslite si vopred, ako viete skrátiť záver prezentácie, ak
-    nebudete stíhať
 
 ## Diskusia: aký softvér používate na prípravu prezentácií?
 

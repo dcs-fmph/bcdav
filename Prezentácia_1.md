@@ -20,7 +20,7 @@ prostredníctvom systému [Moodle](https://moodle.uniba.sk/mod/assign/view.php?i
     výstražným príkladom, čoho sa vyvarovať.
   - Dĺžka prezentácie je najviac 8 minút (minimum cca 5min), limit treba
     dodržať. Do limitu sa nepočíta diskusia.
-  - Prezentáciu si treba pripraviť na počítači pre dataprojektor,
+  - Prezentáciu si treba pripraviť na počítači pre projektor,
     doplnkovo v menšej miere môžete použiť aj tabuľu.
   - Prezentáciu si pripravte v pdf formáte a odovzdajte ju v systéme
     Moodle aspoň hodinu pred začiatkom seminára, na ktorom prezentujete.

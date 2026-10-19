@@ -1,5 +1,5 @@
 ---
-title: Oznamy 21.10.2025
+title: Oznamy 20.10.2026
 ---
 
 **Dnes:** pokyny k prezentáciám, nájdené témy, písomná práca
@@ -12,7 +12,8 @@ title: Oznamy 21.10.2025
 
 **Čo nás čaká na seminári**
 
-  - Budúci týždeň práca s literatúrou, viac o písaní práce
+  - Budúci týždeň seminár nebude
+  - O dva týždne 3.11. práca s literatúrou, viac o písaní práce
   - V novembri a decembri **prezentácie**
       - Rozpis prezentácií bude na stránke.
       - Prezentovať musíte na vám pridelenom termíne. Prípadné zmeny
@@ -23,7 +24,7 @@ title: Oznamy 21.10.2025
         rezervu pre prípad, že nebudete môcť prísť napr. kvôli chorobe a
         pod.
       - Uvítame aktívnu účasť, zapojte sa do diskusie
-  - Termín **DÚ1** 15.12. 22:00 (viac budúci týždeň)
+  - Termín **DÚ1** 14.12. 22:00 (viac budúci týždeň)
   - Cez skúškové bude **kontrolné stretnutie** s vyučujúcimi
 
 **Pracujte na bakalárke**
@@ -36,7 +37,7 @@ title: Oznamy 21.10.2025
 
 **Iné**
 
-  - Do 20.10.2025 boli
+  - Do 18.10.2025 boli
     [žiadosti](https://zona.fmph.uniba.sk/fileadmin/fmfi/fakulta/tlaciva/ziadost_JMS-SK.pdf)
     o mimoriadne štipendium v prípade mimoriadnych materiálnych nárokov
     na bakalársku prácu (ďalšie kolo pravdepodobne v marci)
