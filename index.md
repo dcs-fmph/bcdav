@@ -18,9 +18,15 @@ layout: index
 * **3.11. Práca s literatúrou, LaTeX (všetci)**<br>
 <!-- [Návod](./Návod.md) (podstránky 3, 5, 6) • [DÚ1](./DU1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md)-->
 * **10.11. Prezentácie (aspoň 2)**<br>
+Prezentujú Krasnahalovaya, Hlavatý, Riabikov, Bachilo, Igaz, Riebesam
 * **17.11. Rektorské voľno**<br>
 * **24.11. Prezentácie (aspoň 2)**<br>
+Prezentujú v M-I: Zetocha, Kurimaiová, Krebesová, Klymova, Harmanová, Nagy<br>
+Prezentujú v M-II: Diachenko, Vida,T.; Kuzmenko, Cseh, Mjartan, Stríženec
 * **1.12. Prezentácie (aspoň 2)**<br>
+Prezentujú Petőcz, Prutkay, Miendiukov, Ostertágová, Treščák, Palchynskyi
 * **8.12. Prezentácie (aspoň 2)**<br>
+Prezentujú Vida,K.; Kvasňáková, Makarová, Matrosava, Škoviera, Knappová, Shevchuk
 * **15.12. Prezentácie (aspoň 2)**<br>
+Prezentujú Kutsyn, Orságová, Radionov, Rusyn, Salčík, Bakus
 * **Kontrolné stretnutie cez skúškové obdobie**
