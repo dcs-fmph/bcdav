@@ -16,7 +16,7 @@ layout: index
 [Návod](./Návod.md) (podstránky 4, 4b, 7) • [Prezentácia 1](./Prezentácia_1.md) • [Oznamy](Oznamy_október.md)
 * **27.10. Rezerva**
 * **3.11. Práca s literatúrou, LaTeX (všetci)**<br>
-<!-- [Návod](./Návod.md) (podstránky 3, 5, 6) • [DÚ1](./DU1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md)-->
+[Návod](./Návod.md) (podstránky 5, 6) • [DÚ1](./DU1.md) • [Kontrolné stretnutie 1](./Kontrolné_stretnutie_1.md)
 * **10.11. Prezentácie (aspoň 2)**<br>
 Prezentujú Krasnahalovaya, Hlavatý, Riabikov, Bachilo, Igaz, Riebesam
 * **17.11. Rektorské voľno**<br>
