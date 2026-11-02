@@ -17,8 +17,6 @@ sa postupne učiť si vhodné zdroje hľadať aj sami.
   * porovnanie s vašou prácou
 
 
-
-
 ## Typy zdrojov
 
 Vedecké práce
@@ -51,16 +49,18 @@ Pozor, dôležité je posúdiť **dôveryhodnosť zdroja**
     odborných publikácií?
   - Zastrešuje daný zdroj nejaká profesná **organizácia**, prestížna
     univerzita a pod.?
-  - Školiteľ vám môže odporučiť dôveryhodné zdroje v danej oblasti
-  - Wikipédia (hlavne anglická verzia) je obľúbená encyklopédia s
+  - **Školiteľ** vám môže odporučiť dôveryhodné zdroje v danej oblasti
+  - **Wikipédia** (hlavne anglická verzia) je obľúbená encyklopédia s
     veľkým množstvom obsahu na rôzne témy, ale môže ju editovať hocikto
     a napísať tam hocičo. Preto je potrebné si údaje z Wikipédie overiť
     aj inde. Je to však dobrý zdroj na prvotnú orientáciu a na získanie
     odkazov na ďalšie práce na danú tému.
+  - Smernica povoľuje citovať **dialóg s UI** ako zdroj informácií. Modely UI však môžu robiť chyby a nie sú pôvodným zdrojom poznatkov, iba ich opakujú. Preto vo väčšine prípadov by ste mali pozrieť zdroje, ktoré pri tvrdení nástroj UI cituje, skontrolovať, že uvedená informácia v zdroji naozaj je a zacitovať tento zdroj. Nástroje UI odporúčame citovať ako zdroj informácií len ak je vo vašej práci podstatné, čo na danú otázku odpovie UI. Použitie UI však v každom prípade treba zdokumentovať.
+
 
 ## Hľadanie zdrojov
 
-  - Bežné internetové vyhľadávače, AI
+  - Bežné internetové vyhľadávače, UI
   - Google scholar <https://scholar.google.com/>
       - špecializovaný vyhľadávač na vedecké články, knihy, dizertačné
         práce, technické správy a pod.
@@ -153,7 +153,7 @@ konzistentné v celom zozname literatúry)
     týchto označení sa na ne potom odkazujeme v texte.
       - Opäť je vhodné každú položku aspoň raz v texte spomenúť, aby
         bolo jasné prečo ju citujete.	
-  - Dôvody, prečo prácu citujete môžu byť napr.
+  - **Dôvody, prečo prácu citujete** môžu byť napr.
     - Akademická integrita: nevydávať cudziu prácu za vlastnú, priznať zdroje, tým aj poďakovať pôvodným autorom
     - Uviesť zdroj netriviálnych tvrdení na overenie ich pravdivosti
     - Odkázať na softvéry a iné práce, ktoré priamo využívate v práci
